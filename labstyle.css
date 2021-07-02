@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Jeju Myeongjo';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 500;
     src: url(//fonts.gstatic.com/ea/jejumyeongjo/v3/JejuMyeongjo-Regular.eot);
     src: url(//fonts.gstatic.com/ea/jejumyeongjo/v3/JejuMyeongjo-Regular.eot?#iefix) format('embedded-opentype'),
          url(//fonts.gstatic.com/ea/jejumyeongjo/v3/JejuMyeongjo-Regular.woff2) format('woff2'),
@@ -26,8 +26,12 @@ color : red;
 
 }
 
-h2{
+.nonunderline{
     text-decoration: none;
+    color:black;
+}
+h2{
+
     color:black;
 }
 
