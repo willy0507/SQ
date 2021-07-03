@@ -17,7 +17,8 @@ html{
 }
 body {
  
-    text-align: center;
+content-visibility:unset;
+text-align: center;
     
 }
 h1{
