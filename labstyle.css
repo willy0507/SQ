@@ -17,9 +17,8 @@ html{
 }
 body {
  
-content-visibility:unset;
+content-visibility:initial;
 text-align: center;
-    
 }
 h1{
 
